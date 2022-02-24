@@ -1,0 +1,12 @@
+* {
+  padding: 0.5rem;
+}
+.app {
+  border: 1px solid rgba(94, 75, 75, 0.555);
+  height: 500px;
+  width: 100%;
+  overflow-y: auto;
+}
+.content {
+  display: flex;
+}
